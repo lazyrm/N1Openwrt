@@ -1,7 +1,7 @@
 N1 OpenWrt.
 
 [![lede](https://img.shields.io/badge/github-lede-blue.svg?style=flat&logo=github)](https://github.com/coolsnowwolf/lede)
-![GitHub](https://img.shields.io/github/license/mingxiaoyu/N1Openwrt)
+![GitHub](https://img.shields.io/github/license/lazyrm/N1Openwrt)
 
 
 # 喜欢的可以给个star。要自己编译独一无二的可以fork。如果有人要贝壳云等其他的，可以提issue。我就加上去。再次感谢各位。
@@ -45,7 +45,7 @@ N1 OpenWrt.
  * flowoffload
  * WIFI
  
- ![applist](https://github.com/mingxiaoyu/N1Openwrt/blob/master/imgs/mini.jpg?raw=true)
+ ![applist](https://github.com/lazyrm/N1Openwrt/blob/master/imgs/mini.jpg?raw=true)
  
  ------
  # N1 U盘写入刷emmc
